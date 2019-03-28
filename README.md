@@ -7,8 +7,6 @@ To run it locally in your computer keep the following instruction.
 ## User guide
 Install Node.js and npm: https://nodejs.org/uk/ or https://www.npmjs.com/get-npm .
 
-Perhaps you may need to install Git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git .
-
 1. Clone pokedex's repo:
   ```
   git clone https://github.com/MarianaPatrii/MarianaPatrii.github.io.git
